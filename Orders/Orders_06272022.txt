@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Good Well,TX,4.45,Laminate,180.0,1.75,2.10,315.00,378.00,27.72,720.72
+2,Doctor Who,WA,9.25,Wood,243.00,5.15,4.75,1251.45,1154.25,216.51,2622.21
+3,Albert Einstein,KY,6.00,Carpet,217.00,2.25,2.10,488.25,455.70,56.64,1000.59
+4,John Doe,CA,25.00,Tile,150.0,3.50,4.15,525.00,622.50,286.88,1434.38

@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Acme, Inc.,CA,25.00,Wood,135.0,5.15,4.75,695.25,641.25,334.13,1670.63
+2,Ava Winter,CA,25.00,Wood,180.0,5.15,4.75,927.00,855.00,445.50,2227.50
+3,Sunny David,CA,25.00,Tile,125.0,3.50,4.15,437.50,518.75,239.06,1195.31
+4,Good Well,WA,9.25,Tile,175.0,3.50,4.15,612.50,726.25,120.49,1459.24
